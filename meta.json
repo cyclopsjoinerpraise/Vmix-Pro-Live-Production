@@ -1,0 +1,29 @@
+{
+  "repo": "vmix-pro-live-production",
+  "product": "Vmix Pro Live Production",
+  "kind": "video",
+  "install_type": "nexpath",
+  "install_url": "https://vmix.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "video",
+  "topics": [
+    "vmix",
+    "live-production",
+    "video-switcher",
+    "ndi-streaming",
+    "multi-camera",
+    "broadcast-production",
+    "live-streaming",
+    "content-creation",
+    "vmix-setup-failed-fix",
+    "how-to-install-vmix",
+    "vmix-windows",
+    "broadcast-tools",
+    "windows-tools",
+    "live-utility"
+  ],
+  "stars_cache": 15,
+  "nexpath_slug": "vmix",
+  "nexpath_app_name": "Vmix"
+}
